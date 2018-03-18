@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download the latest build">https://github.com/dineshthangavel47/XenonOTATest/raw/master/XenonHD-180315-Experimental-land.zip</RomUrl>
+                description="Download the latest build">https://github.com/dineshthangavel47/XenonOTATest/raw/master/XenonHD-180309-Experimental-land.zip</RomUrl>
             <MD5Url
                 id="md5"
                 title="MD5"
