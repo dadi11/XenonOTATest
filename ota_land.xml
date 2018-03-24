@@ -1,4 +1,5 @@
-<XenonOTA>
+<?xml version="1.0" encoding="UTF-8"?>
+<XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Oreo>
         <land>
             <Filename>XenonHD-180315-Experimental</Filename>
