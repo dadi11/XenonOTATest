@@ -3,8 +3,8 @@
     <Oreo>
         <land>
             <Filename>XenonHD-180315-Experimental</Filename>
-            <RomUrl>https://mirrors.c0urier.net/android/teamhorizon/O/Experimental/lux/XenonHD-180131-Experimental-lux.zip</RomUrl>
-            <MD5Url>https://mirrors.c0urier.net/android/teamhorizon/O/Experimental/lux/XenonHD-180131-Experimental-lux.zip.md5sum</MD5Url>
+            <RomUrl>https://raw.githubusercontent.com/dineshthangavel47/XenonOTATest/master/XenonHD-180315-Experimental-land.zip</RomUrl>
+            <MD5Url>https://raw.githubusercontent.com/dineshthangavel47/XenonOTATest/master/XenonHD-180315-Experimental-land.zip.md5sum</MD5Url>
             <ChangelogUrl>https://mirrors.c0urier.net/android/teamhorizon/O/Experimental/lux/Changelog.txt</ChangelogUrl>
         </land>
     </Oreo>
