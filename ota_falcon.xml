@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Oreo>
+        <falcon>
+            <Filename>XenonHD-180324-Experimental</Filename>
+            <RomUrl>https://mirrors.c0urier.net/android/teamhorizon/O/Experimental/falcon/XenonHD-180324-Experimental-falcon.zip</RomUrl>
+            <MD5Url>https://mirrors.c0urier.net/android/teamhorizon/O/Experimental/falcon/XenonHD-180324-Experimental-falcon.zip.md5sum</MD5Url>
+            <ChangelogUrl>https://mirrors.c0urier.net/android/teamhorizon/O/Experimental/falcon/Changelog.txt</ChangelogUrl>
+        </falcon>
+    </Oreo>
+</XenonOTA>
